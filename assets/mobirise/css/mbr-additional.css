@@ -1741,6 +1741,76 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
+.cid-siBEJmzZG0 {
+  padding-top: 105px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-siBEJmzZG0 .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+  font-weight: 300;
+}
+.cid-siBEJmzZG0 .step {
+  width: 64px;
+  height: 64px;
+  font-size: 32px;
+  border-radius: 50%;
+  border: 2px solid #efefef;
+}
+@media (max-width: 767px) {
+  .cid-siBEJmzZG0 .step {
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+  }
+}
+.cid-siBEJmzZG0 .separline {
+  position: relative;
+}
+.cid-siBEJmzZG0 .separline:after {
+  top: 68px;
+  left: 30px;
+  position: absolute;
+  content: "";
+  width: 2px;
+  height: calc(100% - (32px + 4px) * 2);
+  background-color: #efefef;
+}
+@media (max-width: 767px) {
+  .cid-siBEJmzZG0 .separline:after {
+    top: 52px;
+    left: 22px;
+    height: calc(100% - 56px);
+  }
+}
+.cid-siBEJmzZG0 .media-block {
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+@media (min-width: 992px) {
+  .cid-siBEJmzZG0 .media-block {
+    padding-right: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-siBEJmzZG0 .media-block {
+    flex-basis: 100%;
+    -webkit-flex-basis: 100%;
+    padding-bottom: 2rem;
+  }
+}
+.cid-siBElKWlM6 {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-siBElKWlM6 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-siBElKWlM6 .btn {
+  margin: 0 0 .5rem 0;
+}
 .cid-sitUPyn2NT .navbar {
   background: #ffffff;
   transition: none;
@@ -2148,27 +2218,6 @@ section.lazy-placeholder:after {
 .cid-sitUPyn2NT .nav-link:hover,
 .cid-sitUPyn2NT .dropdown-item:hover {
   color: #767676 !important;
-}
-.cid-siu7hnWn9v {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-siu7hnWn9v .title {
-  margin-bottom: 2rem;
-}
-.cid-siu7hnWn9v .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-siu7hnWn9v a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-siu7hnWn9v a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-siu7hnWn9v textarea.form-control {
-  min-height: 188px;
 }
 .cid-siAjuaviTj {
   padding-top: 30px;
